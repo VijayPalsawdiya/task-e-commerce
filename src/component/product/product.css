@@ -1,0 +1,38 @@
+div {
+    border-radius: 5px;
+    /* background-color: #f2f2f2; */
+    /* padding: 20px;
+    */
+  }
+  
+.card {
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+    max-width:inherit;
+    text-align: center;
+    font-family: arial;
+    word-spacing: 4px;
+    width: 60px;
+    height:30px;
+    border: lightseagreen;
+    border-color: lightseagreen;
+  }
+  
+  
+  .card button {
+    /* border: none;
+    outline: 0;
+    padding: 12px; */
+    color: white;
+    background-color: #4CAF50;
+    text-align: center;
+    /* cursor: pointer; */
+    width: 100%;
+    /* word-spacing: 3rem;
+    font-size: 18px; */
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+
+  
